@@ -1,6 +1,8 @@
 # Ejercicio 7 Login Form
 Ejercicio 7 / Formulario de Login del curso de HTML Y CSS de Open Bootcamp
 
+# Replica el ejercicio del vídeo 3 de esta sesión y realiza el siguiente cambio:
+
 ## Replícalo exactamente igual, pero realiza una nueva versión en modo oscuro
  
 ## Los colores serán los siguientes
